@@ -4,7 +4,6 @@ import "./SearchBox.css";
 export default function SearchBox({onSearch, onClose, isSearching}) {
     const [searchText, setSearchText] = useState("");
 
-    // limpiamos el contenido del search al hacer click en cerrar, también volvemos el SearchBox al centro
     const handleClearInputClick = () => {
         setSearchText("");
         onClose();

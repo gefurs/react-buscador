@@ -4,4 +4,4 @@
 
 :heavy_check_mark: React-buscador (React + CSS)
 
-http://gefurs.github.io/react-buscador
+https://gefurs.github.io/react-buscador/
